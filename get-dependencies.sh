@@ -8,8 +8,11 @@ echo "Installing package dependencies..."
 echo "---------------------------------------------------------------"
 pacman -Syu --noconfirm \
 	cmake		   \
+	kvantum 	   \
+	lxqt-qtplugin  \
     pipewire-audio \
-    pipewire-jack
+    pipewire-jack  \
+	qt6ct
 
 echo "Installing debloated packages..."
 echo "---------------------------------------------------------------"
