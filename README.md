@@ -7,7 +7,7 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/WhatSie-AppImage)](https://github.com/pkgforge-dev/WhatSie-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/keshavbhatt/whatsie/blob/main/dist/linux/hicolor/scalable/apps/com.ktechpit.whatsie.svg" width="128" />
+  <img src="https://raw.githubusercontent.com/keshavbhatt/whatsie/a888133c557f01780aaf3a30cf1c74a24bef18a5/src/resources/icons/whatsie.svg" width="128" />
 </p>
 
 
